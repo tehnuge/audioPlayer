@@ -1,8 +1,8 @@
 # how to
 
-'git clone <this repo>'
+`git clone <this repo>`
 
-'npm start'
+`npm start`
 
 
 
